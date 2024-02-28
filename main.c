@@ -1,4 +1,8 @@
-main
+#include <stdio.h>
 
-adjhajs
-sadasdasd
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
+
+
